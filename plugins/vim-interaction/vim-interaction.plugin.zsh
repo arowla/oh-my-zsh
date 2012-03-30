@@ -58,12 +58,9 @@ EOH
   fi
   cmd="$before$files$after"
   gvim --remote-send "$cmd"
-<<<<<<< HEAD
   if typeset -f postCallVim > /dev/null; then
     postCallVim
   fi
-=======
->>>>>>> A plugin that makes it easier to interact with the (single) running instance of gvim
 }
 
 alias v=callvim
