@@ -1,0 +1,6 @@
+alias gopif="cd ~/projects/pif"
+alias goforms="cd ~/projects/pif/mygov-forms"
+alias goacct="cd ~/projects/pif/mygov-account"
+alias goblk="cd ~/projects/pif/bizusa-blackbird"
+alias gohya="cd ~/projects/pif/hyabusa"
+alias gomo="cd ~/projects/pif/modus-operandi"
